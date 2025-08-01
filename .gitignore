@@ -108,3 +108,4 @@ lint/tmp/
 # Build artifacts that may contain sensitive information
 **/build/outputs/apk/
 **/build/outputs/bundle/
+.env
